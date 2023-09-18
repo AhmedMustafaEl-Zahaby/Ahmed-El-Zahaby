@@ -36,9 +36,7 @@ function Projects() {
         </div>
         <div>
           <ul>
-            <li className={style.content}>
-              Served as a Product Manager, Technical Lead, and Web Developer
-            </li>
+            <li className={style.content}>Served as a Software Engineer</li>
             <li className={style.content}>
               Developed an AI mail assistant that integrates with Gmail to
               collect responses, auto-create NDAs, and engage in chat parties

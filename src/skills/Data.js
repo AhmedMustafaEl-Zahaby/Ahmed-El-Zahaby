@@ -11,7 +11,7 @@ export const skills = [
     category: "Programming Languages",
     skills: [
       { name: "C++", percentage: 100 },
-      { name: "Java", percentage: 100 },
+      { name: "Java", percentage: 80 },
       { name: "Python", percentage: 100 },
     ],
     icon: <LanguageIcon />,
@@ -27,10 +27,11 @@ export const skills = [
   {
     category: "Web Development",
     skills: [
-      { name: "HTML5", percentage: 100 },
-      { name: "CSS3", percentage: 100 },
+      { name: "HTML5", percentage: 85 },
+      { name: "CSS3", percentage: 85 },
       { name: "JavaScript", percentage: 90 },
       { name: "ReactJS", percentage: 95 },
+      { name: "Redux", percentage: 90 },
     ],
     icon: <WebIcon />,
   },
