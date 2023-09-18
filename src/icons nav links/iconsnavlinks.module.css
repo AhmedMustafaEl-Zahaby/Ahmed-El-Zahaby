@@ -1,0 +1,45 @@
+/* iconsnavlinks.module.css */
+
+.iconNavLinks {
+  display: none;
+}
+
+.iconNavLinks__menu {
+  width: 100%;
+}
+
+.iconNavLinks__items {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.iconNavLinks__item {
+  margin: 0 10px;
+}
+
+.iconNavLinks__link {
+  text-decoration: none;
+  color: black;
+}
+
+.iconNavLinks__link:hover {
+  color: #0e2271b8;
+  transition: 0s ease-in-out;
+}
+
+.iconNavLinks__icon {
+  font-size: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .iconNavLinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 2px solid #0e2271b8;
+  }
+}

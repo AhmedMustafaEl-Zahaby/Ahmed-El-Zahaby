@@ -1,0 +1,12 @@
+.container {
+  display: none;
+}
+
+@media (max-width: 869px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    flex-wrap: wrap;
+  }
+}
