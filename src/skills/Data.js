@@ -66,7 +66,7 @@ export const skills = [
     skills: [
       { name: "OOP", percentage: 90 },
       { name: "Data Structures & Algorithms", percentage: 85 },
-      { name: "Problem Solving", percentage: 65 },
+      { name: "Problem Solving", percentage: 85 },
       { name: "Complexity Analysis", percentage: 95 },
     ],
     icon: <BuildIcon />,
